@@ -2,7 +2,7 @@
  
 ## I'm Silvio Dias!
  
-I am a student of the technical course in systems development.
+I am a student of the technical course in systems development   :computer:.
  
  
 ### About me 
