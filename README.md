@@ -1,4 +1,4 @@
-<img src="assets/logo.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Logo Silvio">
+<img src="assets/logo.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo Silvio">
 
 <p align="left"> 
   Olá meu nome é Silvio, sou desenvolvedor <strong>Web e Mobile</strong>.<br>
