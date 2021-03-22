@@ -36,7 +36,7 @@
     <img
       align="center"
       width="800px"
-      height="200px"
+      height="180px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviodiasjr&langs_count=8&layout=compact&theme=dracula"
     />
   </a>
@@ -44,7 +44,7 @@
   <a href="https://github.com/silviodiasjr?tab=repositories">
     <img
       align="center"
-      height="200px"
+      height="180px"
       src="https://github-readme-stats.vercel.app/api?username=silviodiasjr&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
