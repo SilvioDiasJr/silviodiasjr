@@ -1,53 +1,30 @@
-<img src="assets/logo.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo Silvio">
-
-<p align="left"> 
+<p align="center"> 
   Olá meu nome é Silvio, sou desenvolvedor <strong>Web e Mobile</strong>.<br>
-  Estou em busca de oportunidades de trabalho!
 </p>
+<br>
 
-<p align="left">
-  </> Habilidades: <strong>JavaScript, React, React Native, MongoDB, MYSQL, Firebase, HTML, CSS e Bootstrap.</strong>
-</p>
+<div align="center">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SaSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+</div>
+<br><br>
+  
+  <div align="center"> 
+    <a href="https://instagram.com/silviodiasjr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
+  <a href="https://www.linkedin.com/in/silviodiasjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
+  ##
 
-<p align="left">
-  💼 Ferramentas: <strong>VsCode, Figma, Heroku, Netlify, Git e GitHub.</strong>
-</p>
+<div align="center">
+  <a href="https://github.com/silviodiasjr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviodiasjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviodiasjr&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<p align="left">
-  Caso tenha interesse de conhecer melhor meu trabalho, entre em contato nos links abaixo: ⤵️
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/silviodiasjr/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silviodiasjr/" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5514997140290" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514997140290"/></a>
-
-  <a href="https://www.facebook.com/silvio.dias.5" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/silvio.dias.5"/></a>
-
-</p>  
-
-<br/>
-
-<p align="center">
-   <a href="https://github.com/silviodiasjr?tab=repositories">
-    <img
-      align="center"
-      width="800px"
-      height="180px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviodiasjr&langs_count=8&layout=compact&theme=dracula"
-    />
-  </a>
-<br/><br/>
-  <a href="https://github.com/silviodiasjr?tab=repositories">
-    <img
-      align="center"
-      height="180px"
-      src="https://github-readme-stats.vercel.app/api?username=silviodiasjr&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
-    />
-  </a>
-
-</p>
 
