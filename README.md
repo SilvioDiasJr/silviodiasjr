@@ -1,6 +1,6 @@
-<p align="center"> 
+<h3 align="center"> 
   Olá meu nome é Silvio, sou desenvolvedor <strong>Web e Mobile</strong>.<br>
-</p>
+</h3>
 <br>
 
 <div align="center">
